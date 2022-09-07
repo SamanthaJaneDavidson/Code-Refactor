@@ -10,11 +10,13 @@ body {
     }
 
 a {
+    /*Moved non-specific elements above classes and IDs*/
         color: #ffffff;
         text-decoration: none;
     }
     
 p {
+     /*Moved non-specific elements above classes and IDs*/
         font-size: 16px;
     }
 
@@ -34,7 +36,8 @@ p {
     color: #d9dcd6;
 }
 
-#links  {
+#links  { 
+    /*Combined previous elements from headers into one link id*/
     padding-top: 15px;
     float: right;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
@@ -63,6 +66,7 @@ p {
 }
 
 .search-online-social {
+    /*Combined repeating classes into one class for all content elements*/
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
@@ -72,11 +76,13 @@ p {
 }
 
 .search-online-social img {
+    /*Combined repeating image classes into one class for all content images*/ 
     max-height: 200px;
     
 }
 
 .search-online-social h2 {
+    /*Combined repeating h2 elements into one*/ 
     margin-bottom: 20px;
     font-size: 36px;
 
