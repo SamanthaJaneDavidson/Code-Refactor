@@ -37,7 +37,7 @@ p {
 }
 
 #links  { 
-    /*Combined previous elements from headers into one link id*/
+    /*Combined previous elements from headers into one nav section and link id*/
     padding-top: 15px;
     float: right;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
