@@ -6,7 +6,7 @@ The goal of this project was to refactor existing code to adhere to accessibilit
 ## Site Image
 ![Horiseon website preview](./assets/images/horiseon-website-screenshot.png)
 
-To visit the site click [here](https://samanthajanedavidson.github.io/Code-Refactor/#social-media-marketing). 
+To visit the site click [here](https://samanthajanedavidson.github.io/Code-Refactor). 
 
 ## License
 Please refer to the license in the repo.
